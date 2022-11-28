@@ -1,0 +1,63 @@
+.homeAvatar{
+    display: inline-block;
+    margin-left: 115px;
+    margin-right: 48px;
+    text-align: center;
+    background-color: #f3f3f3;
+    border-radius: 50%;
+    width: 170px;
+    height: 170px;
+}
+.homeAvatar img{
+    margin-top: 60px;
+    width: 30%;
+    height: 30%;
+}
+
+.homeWelcome h1{
+    display: inline-block;
+    font-size: 72px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+/* span{
+    font-weight: 500;
+    color: #717171;
+} */
+
+.username {
+    margin-left: 42px;
+    margin-right: 23px;
+    color: #717171;
+}
+
+.functionalities{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    padding: 115px;
+}
+
+.functionality{
+    width: 330;
+    height: 164px;
+    text-align: center;
+    background-color: rgb(237,237,237);
+    margin: 20px;
+    border-radius: 20px;
+    font-size: 24px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 600;
+    line-height: 164px;
+}
+
+.logoutbtn{
+    position: relative;
+    top: -72px;
+    margin-left: 100px;
+    background-color: rgb(75,78,79);
+    width: 120px;
+    height: 46px;
+    border-radius: 10px;
+    color: white;
+    font-size: larger;
+}

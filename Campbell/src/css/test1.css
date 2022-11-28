@@ -1,0 +1,19 @@
+/* .ant-table-wrapper{
+    margin-left: 310px;
+    margin-right: 20px;
+}
+
+.ant-form{
+    padding-top:70px !important;
+    margin-left: 310px !important;
+    margin-right: 20px !important;
+    margin-top: 100px !important;
+} */
+
+td{
+    padding: 0 !important;
+}
+
+th{
+    font-size: xx-small;
+}

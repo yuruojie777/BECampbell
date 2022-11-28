@@ -1,0 +1,30 @@
+.loginbackground{
+    background-image: url("loginbackground1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.userlogin{
+    width: 600px;
+    text-align: center;
+    background-position: bottom;
+    margin: auto;
+    margin-top: 0px;
+    padding-top: 60px;
+    padding-bottom: 700px;
+    padding-right: 120px;
+    border-radius: 15px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.userlogin label{
+    color: white;
+}
+
+.userlogin button{
+    width: 320px;
+}
+
+.userlogin h1{
+    /*color: white;*/
+    /*font-size: xxx-large;*/
+    margin-left: 130px;
+}

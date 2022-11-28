@@ -1,0 +1,19 @@
+
+.logo img{
+    float: left;
+    margin-top: 7px;
+    margin-left: 2%;
+    margin-right: 20%;
+    height: 50px;
+}
+
+.header h1{
+    float: left;
+    color: white;
+    margin-top: 7px;
+}
+
+.username{
+    float: left;
+    margin-left: 2%;
+}

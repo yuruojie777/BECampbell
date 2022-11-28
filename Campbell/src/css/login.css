@@ -1,0 +1,55 @@
+.homeLogo {
+    margin-top: 35px;
+}
+.loginContainer{
+    text-align: center;
+}
+.loginContainer h1{
+    margin-top: 48px;
+    font-size: 40px;
+    font-weight: 500;
+}
+.control-form input {
+    width: 600px;
+    height: 70px;
+    margin-top: 14px;
+    font-size: 36px;
+    border: none;
+    background-color: rgb(236, 234, 234);
+    border-radius: 10px;
+    padding-left: 70px;
+    background-repeat: no-repeat;
+    background-size: 8%;
+    background-position: 2%;
+}
+
+
+.control-form input:focus{
+    outline: 1px solid blue;
+}
+
+.loginContainer button{
+    width: 600px;
+    height: 70px;
+    background-color: rgb(247,101,64);
+    color: white;
+    font-size: x-large;
+    font-weight: 600;
+    margin-top: 23px;
+    margin-bottom: 35px;
+    border-style: none;
+    border-radius: 10px;
+}
+
+.term{
+    width: 609px;
+    font-size: large;
+}
+
+.account{
+    background-image: url(./icon-user.png);
+}
+
+.password{
+    background-image: url(./icon-password.png);
+}
